@@ -24,7 +24,7 @@
 >
 >> [!bug| no-i ttl-c]- The Magic
 >>
->> - [Essence Weaving](1.%20Essence%20Weaving.md)
+>> - [Essence Weaving]()
 >> - [Residue Buildup & Veil Scarring](2.%20Residue%20Buildup,%20Veil%20Susceptibility%20&%20Veil%20Scarring.md)
 >> - [The Disciplines & Aspects](3.%20The%20Disciplines%20&%20Aspects.md)
 >> - [The Spells](4.%20The%20Spells.md)
