@@ -75,6 +75,19 @@ export const defaultListPageLayout: PageLayout = {
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
+    Component.Comments({
+      provider: 'giscus',
+      options: {
+        // from data-repo
+        repo: 'jackyzha0/quartz',
+        // from data-repo-id
+        repoId: 'MDEwOlJlcG9zaXRvcnkzODcyMTMyMDg',
+        // from data-category
+        category: 'Announcements',
+        // from data-category-id
+        categoryId: 'DIC_kwDOFxRnmM4B-Xg6',
+      },
+    }),
     Component.Backlinks(),
   ],
 }
