@@ -1,5 +1,9 @@
 ---
-{"title":"The World of Vilenought","draft":false,"tags":null,"publish":true,"PassFrontmatter":true}
+title: Ashen Wiki
+draft: false
+tags: 
+publish: true
+PassFrontmatter: true
 ---
 ![Banner.webp| banner p+cct](ashenbanner.png)
 # The World of Ashen
@@ -71,33 +75,28 @@
 
 ![Divider_1.webp](Divider_1.webp)
 
-## Introduction to the setting:
+## What has happened so far?
 
-**The World of Vilenought:**
+**Recap**
 <br>
-In a time long forgotten, the world was ruled by the ambition and mastery of the *Monkhalyr*, the first and most dominant of the sentient races. Their relentless thirst for power led to their undoing. Through the reckless use of magic, they tore apart the Veil, the fragile barrier separating reality from the Mirror, a dark, twisted reflection of the world. This event, known as the *Convergence*, unleashed chaotic forces that forever altered the course of history.
+One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. 
 
-Now, countless aeons later, the world is but a shattered remnant of its former glory. The great human empires have crumbled, and the Monkhalyr are fractured into war-torn kingdoms, desperately clinging to the ruins of their past. Their great cities lie in decay, haunted by the echoes of the Convergence, places where the *Veil* remains thin, and magic warps the fabric of reality.
+The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked. "What's happened to me?" he thought. 
 
-Amid the remnants of this broken world, other races have risen, each scarred by the same cataclysm but twisted into new forms. The *Venthalyr*, once human, are now the embodiment of nature's darker side. These Wood Elves have been irrevocably changed by the untamed, magical forests that blend the real and the surreal. Immortal within their forest homes, they cannot survive long beyond them, and to sustain their race, they enslave humans, using them to birth new Venthalyr.
+It wasn't a dream. His room, a proper human room although a little too small, lay peacefully between its four familiar walls. A collection of textile samples lay spread out on the table - Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame. 
 
-To the frozen north, the *Anthalyr*, a splinter faction of the Venthalyr, have forsaken their ancestors' brutal expansionism. Living a nomadic life, these Tundra Elves roam the icy steppes, surviving through blood rituals and a spiritual communion with the Mirror that guides them, even as it shortens their lives.
-
-Deep within the mountains, the *Markhalyr*, the once-human Dwarves, battle their own slow extinction. Transformed by primordial magic, their flesh has melded with stone and metal, and with each new generation, more of their humanity is lost. They are master craftsmen, carving the essence of magic into their creations, yet they know their race is doomed, consumed by the very magic that made them.
-
-The *Urashalyr*, an advanced and disciplined race descended from humans, have defied the brutish stereotype of Orcs. From the most unforgiving environments—volcanic plains and barren deserts—they have risen to forge an empire built on military prowess, diplomacy, and innovation. Though feared for their precision and ruthlessness in war, the Urakhalyr are also philosophers, poets, and scholars, dedicated to a rigid caste system that honors both the warrior and the thinker.
-
-Diverging from their Urashalyri ancestors, the *Varashalyr* adapted to subterranean life after the Convergence. Towering at 3 meters tall with bioluminescent fungal growths, they are symbiotically connected to a semi-sentient fungus that grants them healing powers at the cost of their individuality. They wield potent reality magic but must be careful, as overuse threatens to unravel the very fabric of time and space.
-
-The world is a grim, perilous place, filled with the scars of the Convergence and the ever-looming threat of the *Mirror*. Magic is unpredictable and dangerous, often twisting those who wield it, and the gods themselves, though distant, are a constant reminder of the world's peril. Worshiped out of fear more than reverence, these deities are embodiments of chaos, destruction, and sorrow, with only rare glimmers of hope.
-
-The Veil grows ever thinner. The Mirror's influence spreads. The world teeters on the edge of oblivion, and those who remain struggle to survive, ever haunted by the echoes of their past mistakes and the looming darkness of their future.
+It showed a lady fitted out with a fur hat and fur boa who sat upright, raising a heavy fur muff that covered the whole of her lower arm towards the viewer. Gregor then turned to look out the window at the dull weather.
 
 ---
-
-| Title | Pantheon |
-| ----- | -------- |
-
+| PC:s | Status |
+| --- | --- |
+| Aster | Dead |
+| Skurim | Alive |
+| Gundlar | In love |
+| Jamal | Reborn |
+| Eviticus | Stressed |
+| Archable | Studying |
+| Buffert | Eating wood |
 ---
 
 ```dataview
