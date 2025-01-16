@@ -13,7 +13,7 @@ PassFrontmatter: true
 > [!quote] <p><i>After the great clash, few humans remained and even fewer remained with their humanity - unknown elf circa 120</i></p>
 > 
 
-<iframe src="https://master-noiza.github.io/world-map/" width="100%" height="800px"></iframe>
+<iframe src="https://blizzardjr.github.io/ashen-test/" width="100%" height="800px"></iframe>
 
 ![Divider_1.webp](Divider_1.webp)
 
@@ -26,7 +26,7 @@ PassFrontmatter: true
 >>
 >> - [Old Town](1.%20Cities/1.%20Old%20Town.md)
 >> - [Oasis](2.%20Residue%20Buildup,%20Veil%20Susceptibility%20&%20Veil%20Scarring.md)
->> - [Levil](3.%20The%20Disciplines%20&%20Aspects.md)
+>> - [Levil](1.%20Cities/3.%20Levil.md)
 >> - [Al-Mohawia](4.%20The%20Spells.md)
 >
 >> [!error| no-i ttl-c]- The Races
