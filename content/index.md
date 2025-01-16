@@ -2,11 +2,11 @@
 {"title":"The World of Vilenought","draft":false,"tags":null,"publish":true,"PassFrontmatter":true}
 ---
 ![Banner.webp| banner p+cct](ashenbanner.png)
-# The World of Vilenought
+# The World of Ashen
 
 ![Divider_1.webp](Divider_1.webp)
 
-> [!quote] Beyond our world, not far, but close enough to touch it, yet forever distant and cut off by the Veil, lies the Mirror. A feint imprint of the reality we are so sure we call our own. Every stone cast in a still forest lake sends ripples down the surface of its misty, bleak projection in the Mirror. Or are we the projections? Are we mere echoes of the spirits that roam the dim forests beyond our reach? Beyond the Mirror still, to where only the bravest dare to pierce the Veil, lie the Shards. The fragmentation rising with every step, reality shifting, space streching and time in constant flux. Beyond the shard lies nothing. Nothing of such an agonizing depth, of such hopelessness and despair... Filled with silence, filled with the silence of dead gods, filled with the laughter of those who are not. But the Veil protects us.... For aeons it protected us... But the Veil is wearing thin.
+> [!quote] <p><i>After the great clash, few humans remained and even fewer remained with their humanity - unknown elf circa 120</i></p>
 > 
 
 <iframe src="https://master-noiza.github.io/world-map/" width="100%" height="800px"></iframe>
@@ -18,15 +18,12 @@
 
 > [!column| no-t no-i]
 >
->> [!bug| no-i ttl-c]- The Magic
+>> [!bug| no-i ttl-c]- Cities
 >>
->> - [Essence Weaving](1.%20Essence%20Weaving.md)
->> - [Residue Buildup & Veil Scarring](2.%20Residue%20Buildup,%20Veil%20Susceptibility%20&%20Veil%20Scarring.md)
->> - [The Disciplines & Aspects](3.%20The%20Disciplines%20&%20Aspects.md)
->> - [The Spells](4.%20The%20Spells.md)
->> - [Creating new Spells](5.%20Creating%20new%20Spells.md)
->> - [Spell modification - On the Fly](6.%20Spell%20modification%20-%20On%20the%20Fly.md)
->> - [Spell modification - Stable](7.%20Spell%20modification%20-%20Stable.md)
+>> - [Old Town](1.%20Cities/1.%20Essence%20Weaving.md)
+>> - [Oasis](2.%20Residue%20Buildup,%20Veil%20Susceptibility%20&%20Veil%20Scarring.md)
+>> - [Levil](3.%20The%20Disciplines%20&%20Aspects.md)
+>> - [Al-Mohawia](4.%20The%20Spells.md)
 >
 >> [!error| no-i ttl-c]- The Races
 >>
