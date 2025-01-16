@@ -27,7 +27,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer({
   sortFn: (a, b) => {
     const nameOrderMap: Record<string, number> = {
-      "Cities": 100,
+      "The Magic": 100,
       "Atlas": 200,
       "Gods & Religion": 300,
       "The Races": 400,
