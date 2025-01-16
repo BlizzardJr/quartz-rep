@@ -1,7 +1,7 @@
 ---
 {"title":"The World of Vilenought","draft":false,"tags":null,"publish":true,"PassFrontmatter":true}
 ---
-![ashenbanner.png| banner p+cct](ashenbanner.png)
+![Banner.webp| banner p+cct](ashenbanner.png)
 # The World of Vilenought
 
 ![Divider_1.webp](Divider_1.webp)
