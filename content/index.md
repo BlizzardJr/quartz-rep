@@ -1,12 +1,12 @@
 ---
-title: Ashen Wiki
+title: Aldiron Wiki
 draft: false
 tags: 
 publish: true
 PassFrontmatter: true
 ---
 ![Banner.webp| banner p+cct](ashenbanner.png)
-# The World of Ashen
+# The World of Aldiron
 
 ![Divider_1.webp](Divider_1.webp)
 
@@ -64,7 +64,7 @@ PassFrontmatter: true
 >>   - [The Ashen Sage](3.%20Gods%20&%20Religion/5.%20Minor%20Gods,%20Spirits%20&%20Aspects/4.%20The%20Ashen%20Sage.md)
 >>   - [The Primal Sovereign](3.%20Gods%20&%20Religion/5.%20Minor%20Gods,%20Spirits%20&%20Aspects/5.%20The%20Primal%20Sovereign.md)
 >
->> [!bug| txt-c ttl-c no-i]- The Mechanics
+>> [!bug| txt-c ttl-c no-i]- The PC:s
 >> - [General Rules & Specifics](9.%20Mechanics/General%20Rules%20&%20Specifics.md)
 >> - [Long-Term Fatigue](9.%20Mechanics/Long-Term%20Fatigue.md)
 >> - [Mutations](9.%20Mechanics/Mutations.md)
