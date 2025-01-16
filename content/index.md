@@ -24,7 +24,7 @@
 >
 >> [!bug| no-i ttl-c]- Cities
 >>
->> - [Essence Weaving](1.%20Cities/Essence%20Weaving.md)
+>> - [Essence Weaving](1.%20Cities/1.20%Essence%20Weaving.md)
 >> - [Residue Buildup & Veil Scarring](2.%20Residue%20Buildup,%20Veil%20Susceptibility%20&%20Veil%20Scarring.md)
 >> - [The Disciplines & Aspects](3.%20The%20Disciplines%20&%20Aspects.md)
 >> - [The Spells](4.%20The%20Spells.md)
