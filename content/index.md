@@ -24,10 +24,10 @@
 >
 >> [!bug| no-i ttl-c]- Cities
 >>
->> - [Essence Weaving](1.%20Cities/1.20%Essence%20Weaving.md)
+>> - [Essence Weaving]()
 >> - [Residue Buildup & Veil Scarring](2.%20Residue%20Buildup,%20Veil%20Susceptibility%20&%20Veil%20Scarring.md)
 >> - [The Disciplines & Aspects](3.%20The%20Disciplines%20&%20Aspects.md)
->> - [The Spells](4.%20The%20Spells.md)
+>> - [The Spells](1.%20Cities/4.%20The%20Spells.md)
 >> - [Creating new Spells](5.%20Creating%20new%20Spells.md)
 >> - [Spell modification - On the Fly](6.%20Spell%20modification%20-%20On%20the%20Fly.md)
 >> - [Spell modification - Stable](7.%20Spell%20modification%20-%20Stable.md)
