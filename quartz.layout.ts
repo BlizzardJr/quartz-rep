@@ -59,7 +59,31 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
+    Component.Breadcrumbs(),
+    Component.Content(),
+    Component.ContentMeta(),
+    Component.FolderContent(),
+    Component.Footer(),
+    Component.Graph(),
+    Component.Head(),
+    Component.RecentNotes(),
+    Component.Spacer(),
+    Component.TagContent(),
+    Component.TagList(),
     Component.Backlinks(),
+    Component.Comments({
+      provider: 'giscus',
+      options: {
+        // from data-repo
+        repo: 'jackyzha0/quartz',
+        // from data-repo-id
+        repoId: 'MDEwOlJlcG9zaXRvcnkzODcyMTMyMDg',
+        // from data-category
+        category: 'Announcements',
+        // from data-category-id
+        categoryId: 'DIC_kwDOFxRnmM4B-Xg6',
+      }
+    }),
   ],
 }
 
@@ -75,19 +99,19 @@ export const defaultListPageLayout: PageLayout = {
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Comments({
-      provider: 'giscus',
-      options: {
-        // from data-repo
-        repo: 'jackyzha0/quartz',
-        // from data-repo-id
-        repoId: 'MDEwOlJlcG9zaXRvcnkzODcyMTMyMDg',
-        // from data-category
-        category: 'Announcements',
-        // from data-category-id
-        categoryId: 'DIC_kwDOFxRnmM4B-Xg6',
-      },
-    }),
+    Component.Breadcrumbs(),
+    Component.Content(),
+    Component.ContentMeta(),
+    Component.FolderContent(),
+    Component.Footer(),
+    Component.Graph(),
+    Component.Head(),
+    Component.RecentNotes(),
+    Component.Spacer(),
+    Component.TagContent(),
+    Component.TagList(),
     Component.Backlinks(),
   ],
+  
 }
+
