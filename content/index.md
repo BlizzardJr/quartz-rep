@@ -6,7 +6,7 @@
 
 # The World of Vilenought
 
-[Essence Weaving](1.%20Citites20%1.20%Essence%20Weaving.md)
+
 
 ![Divider_1.webp](Divider_1.webp)
 
