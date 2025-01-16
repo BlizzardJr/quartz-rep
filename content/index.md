@@ -24,7 +24,7 @@ PassFrontmatter: true
 >
 >> [!bug| no-i ttl-c]- Cities
 >>
->> - [Old Town](1.%20Old%20Town.md)
+>> - [Old Town](1.%20Cities/1.%20Old%20Town.md)
 >> - [Oasis](2.%20Residue%20Buildup,%20Veil%20Susceptibility%20&%20Veil%20Scarring.md)
 >> - [Levil](3.%20The%20Disciplines%20&%20Aspects.md)
 >> - [Al-Mohawia](4.%20The%20Spells.md)
