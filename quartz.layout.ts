@@ -68,7 +68,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Head(),
     Component.RecentNotes(),
     Component.Spacer(),
-    Component.TagContent(),
     Component.TagList(),
     Component.Backlinks(),
     Component.Comments({
@@ -108,7 +107,6 @@ export const defaultListPageLayout: PageLayout = {
     Component.Head(),
     Component.RecentNotes(),
     Component.Spacer(),
-    Component.TagContent(),
     Component.TagList(),
     Component.Backlinks(),
   ],
