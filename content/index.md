@@ -1,9 +1,7 @@
 ---
 {"title":"The World of Vilenought","draft":false,"tags":null,"publish":true,"PassFrontmatter":true}
 ---
-
-![Banner.webp| banner p+cct](Banner.webp)
-
+![ashenbanner.png| banner p+cct](ashenbanner.png)
 # The World of Vilenought
 
 ![Divider_1.webp](Divider_1.webp)
@@ -22,13 +20,13 @@
 >
 >> [!bug| no-i ttl-c]- The Magic
 >>
->> - [Essence Weaving](1.%20The%20Magic/1.%20Essence%20Weaving.md)
->> - [Residue Buildup & Veil Scarring](1.%20The%20Magic/2.%20Residue%20Buildup,%20Veil%20Susceptibility%20&%20Veil%20Scarring.md)
->> - [The Disciplines & Aspects](1.%20The%20Magic/3.%20The%20Disciplines%20&%20Aspects.md)
->> - [The Spells](1.%20The%20Magic/4.%20The%20Spells.md)
->> - [Creating new Spells](1.%20The%20Magic/5.%20Creating%20new%20Spells.md)
->> - [Spell modification - On the Fly](1.%20The%20Magic/6.%20Spell%20modification%20-%20On%20the%20Fly.md)
->> - [Spell modification - Stable](1.%20The%20Magic/7.%20Spell%20modification%20-%20Stable.md)
+>> - [Essence Weaving](1.%20Essence%20Weaving.md)
+>> - [Residue Buildup & Veil Scarring](2.%20Residue%20Buildup,%20Veil%20Susceptibility%20&%20Veil%20Scarring.md)
+>> - [The Disciplines & Aspects](3.%20The%20Disciplines%20&%20Aspects.md)
+>> - [The Spells](4.%20The%20Spells.md)
+>> - [Creating new Spells](5.%20Creating%20new%20Spells.md)
+>> - [Spell modification - On the Fly](6.%20Spell%20modification%20-%20On%20the%20Fly.md)
+>> - [Spell modification - Stable](7.%20Spell%20modification%20-%20Stable.md)
 >
 >> [!error| no-i ttl-c]- The Races
 >>
