@@ -16,11 +16,10 @@ PassFrontmatter: true
 <iframe src="https://blizzardjr.github.io/ashen-test/" width="100%" height="800px"></iframe>
 
 ![Divider_1.webp](Divider_1.webp)
-
-
-## <center> Table of Contents: <center/>
+## <center> Table of Contents: </center>
 
 > [!column| no-t no-i]
+> 
 >
 >> [!bug| no-i ttl-c]- Cities
 >>
@@ -87,19 +86,16 @@ It wasn't a dream. His room, a proper human room although a little too small, la
 
 It showed a lady fitted out with a fur hat and fur boa who sat upright, raising a heavy fur muff that covered the whole of her lower arm towards the viewer. Gregor then turned to look out the window at the dull weather.
 
----
-| PC:s | Status |
-| --- | --- |
-| Aster | Dead |
-| Skurim | Alive |
-| Gundlar | In love |
-| Jamal | Reborn |
-| Eviticus | Stressed |
-| Archable | Studying |
-| Buffert | Eating wood |
+
 ---
 
-```dataview
-TABLE WITHOUT ID link(title, name) as Title, pantheon AS Pantheon
-FROM "3. Gods & Religion/4. The Nine"
-Sort desc
+| PC:s     | Status       |
+| -------- | ------------ |
+| Aster    | Dead         |
+| Skurim   | Alive        |
+| Gundlar  | In love      |
+| Jamal    | Reborn       |
+| Eviticus | Stressed     |
+| Archable | Studying     |
+| Buffert  | On a pilgrim |
+___
