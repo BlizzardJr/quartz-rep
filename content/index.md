@@ -100,4 +100,10 @@ ___
 
 ___
 
-[D&DBeyond](https://www.dndbeyond.com/campaigns/4259461)
+[D&DBeyond](https://www.dndbeyond.com/campaigns/4259461{:target="_blank"})
+
+[D&DBeyond](https://www.dndbeyond.com/campaigns/4259461){:target="_blank"}
+
+<a href="https://www.dndbeyond.com/campaigns/4259461" target="_blank">D&DBeyond</a>
+
+test
