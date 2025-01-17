@@ -12,18 +12,11 @@ export default ((opts?: Options) => {
     const year = new Date().getFullYear()
     const links = opts?.links ?? []
     return (
-      <footer class={`${displayClass ?? ""}`}>
-        <p>
-          {i18n(cfg.locale).components.footer.createdWith}{" "}
-          <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
-        </p>
-        <ul>
-          {Object.entries(links).map(([text, link]) => (
-            <li>
-              <a href={link}>{text}</a>
-            </li>
-          ))}
-        </ul>
+      <footer class={`${displayClass ?? ""}`}>    <div>
+      <p>
+          <a href="https://www.youtube.com/watch?v=5T5BY1j2MkE" target="_blank" rel="noopener noreferrer">This page was built by elvs & gnomes</a>.
+      </p>
+    </div>
       </footer>
     )
   }
