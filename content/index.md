@@ -86,8 +86,7 @@ It wasn't a dream. His room, a proper human room although a little too small, la
 
 It showed a lady fitted out with a fur hat and fur boa who sat upright, raising a heavy fur muff that covered the whole of her lower arm towards the viewer. Gregor then turned to look out the window at the dull weather.
 
-
----
+___
 
 | PC:s     | Status       |
 | -------- | ------------ |
@@ -98,4 +97,7 @@ It showed a lady fitted out with a fur hat and fur boa who sat upright, raising 
 | Eviticus | Stressed     |
 | Archable | Studying     |
 | Buffert  | On a pilgrim |
+
 ___
+
+[D&DBeyond](https://www.dndbeyond.com/campaigns/4259461)
