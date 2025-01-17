@@ -59,7 +59,18 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.FreeHTML({html: "<h2>Welcome!</h2><p>This is some custom HTML content.</p>"}),
+    Component.FreeHTML({
+      html: `
+        <iframe 
+          src="https://blizzardjr.github.io/ashen-test/" 
+          width="600" 
+          height="400" 
+          frameborder="0" 
+          allowfullscreen>
+        </iframe>
+      `,
+      className: "iframe-container",
+    }),
     Component.Backlinks(),
   ],
 }
@@ -76,7 +87,18 @@ export const defaultListPageLayout: PageLayout = {
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.FreeHTML({html: "<h2>Welcome!</h2><p>This is some custom HTML content.</p>"}),
+    Component.FreeHTML({
+      html: `
+        <iframe 
+          src="https://blizzardjr.github.io/ashen-test/" 
+          width="600" 
+          height="400" 
+          frameborder="0" 
+          allowfullscreen>
+        </iframe>
+      `,
+      className: "iframe-container",
+    }),
     Component.Backlinks(),
   ],
   
