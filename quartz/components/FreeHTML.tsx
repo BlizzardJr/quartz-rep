@@ -1,8 +1,26 @@
 import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import { classNames } from "../util/lang"
 
-function Spacer({ displayClass }: QuartzComponentProps) {
-  return <div class={classNames(displayClass, "spacer")}></div>
+interface Options {
+  html: string // The HTML content to render
+  className?: string // Optional CSS class for styling
 }
 
-export default (() => Spacer) satisfies QuartzComponentConstructor
+const defaultOptions: Options = {
+  html: "<p>Default content</p>", // Default HTML content
+  className: "custom-html", // Default class name
+}
+
+export default ((userOpts?: Options) => {
+  const opts = { ...defaultOptions, ...userOpts }
+
+  function FreeHTMLComponent(props: QuartzComponentProps) {
+    return (
+      <div
+        className={opts.className}
+        dangerouslySetInnerHTML={{ __html: opts.html }}
+      ></div>
+    )
+  }
+
+  return FreeHTMLComponent
+}) satisfies QuartzComponentConstructor
