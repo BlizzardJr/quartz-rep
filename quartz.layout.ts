@@ -59,18 +59,10 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.FreeHTML({
-      html: `
-        <iframe 
-          src="https://blizzardjr.github.io/ashen-test/" 
-          width="100" 
-          height="200" 
-          frameborder="10" 
-          allowfullscreen>
-        </iframe>
-      `,
-      className: "iframe-container",
-    }),
+    Component.DesktopOnly(Component.FreeHTML({
+      html: 
+      '<div class="table-container"><table><thead><tr><th>PC:s</th><th>Status</th></tr></thead><tbody><tr><td>Aster</td><td>Dead</td></tr><tr><td>Skurim</td><td>Alive</td></tr><tr><td>Gundlar</td><td>In love</td></tr><tr><td>Jamal</td><td>Reborn</td></tr><tr><td>Eviticus</td><td>Stressed</td></tr><tr><td>Archable</td><td>Studying</td></tr><tr><td>Buffert</td><td>Eating wood</td></tr></tbody></table></div>'
+    })),
     Component.Backlinks(),
   ],
 }
@@ -87,18 +79,10 @@ export const defaultListPageLayout: PageLayout = {
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.FreeHTML({
-      html: `
-        <iframe 
-          src="https://blizzardjr.github.io/ashen-test/" 
-          width="100" 
-          height="200" 
-          frameborder="10" 
-          allowfullscreen>
-        </iframe>
-      `,
-      className: "iframe-container",
-    }),
+    Component.DesktopOnly(Component.FreeHTML({
+      html: 
+      '<div class="table-container"><table><thead><tr><th>PC:s</th><th>Status</th></tr></thead><tbody><tr><td>Aster</td><td>Dead</td></tr><tr><td>Skurim</td><td>Alive</td></tr><tr><td>Gundlar</td><td>In love</td></tr><tr><td>Jamal</td><td>Reborn</td></tr><tr><td>Eviticus</td><td>Stressed</td></tr><tr><td>Archable</td><td>Studying</td></tr><tr><td>Buffert</td><td>Eating wood</td></tr></tbody></table></div>'
+    })),
     Component.Backlinks(),
   ],
   
