@@ -127,7 +127,18 @@ ___
     </a>
 </h2>
 
+<h2>
+  <img src="https://dndbeyond-support.wizards.com/hc/theming_assets/01JDAVQEXS2NAZNHGTDSGBQR08" alt="Logo" style="height: 1em; vertical-align: middle; margin-right: 8px;">
+  <a href="https://example.com" target="_blank" rel="noopener noreferrer">D&DBeyond</a>
+</h2>
 
+
+<h2 style="color: red; font-size: 30px; text-decoration: underline; display: inline-flex; align-items: center;">
+  <img src="https://dndbeyond-support.wizards.com/hc/theming_assets/01JDAVQEXS2NAZNHGTDSGBQR08" alt="Logo" style="height: 1em; margin-right: 8px;">
+  <a href="https://www.dndbeyond.com/campaigns/4259461" target="_blank" style="color: inherit; text-decoration: none;">
+    D&DBeyond
+  </a>
+</h2>
 
 
 test
