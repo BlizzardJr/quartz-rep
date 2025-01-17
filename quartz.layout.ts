@@ -58,11 +58,11 @@ export const defaultContentPageLayout: PageLayout = {
 })),
   ],
   right: [
-    Component.DesktopOnly(Component.TableOfContents()),
     Component.DesktopOnly(Component.FreeHTML({
       html: 
-      '<div class="table-container"><table><thead><tr><th>PC:s</th><th>Status</th></tr></thead><tbody><tr><td>Aster</td><td>Dead</td></tr><tr><td>Skurim</td><td>Alive</td></tr><tr><td>Gundlar</td><td>In love</td></tr><tr><td>Jamal</td><td>Reborn</td></tr><tr><td>Eviticus</td><td>Stressed</td></tr><tr><td>Archable</td><td>Studying</td></tr><tr><td>Buffert</td><td>Eating wood</td></tr></tbody></table></div>'
+        '<a href="https://www.dndbeyond.com/campaigns/4259461" target="_blank"> <img src="https://dndbeyond-support.wizards.com/hc/theming_assets/01JDAVQD7VQ3KSMGT6RCBM9XRZ" alt="Logo" style="height: 80px;"></a>'
     })),
+    Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
 }
@@ -78,11 +78,11 @@ export const defaultListPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
-    Component.DesktopOnly(Component.TableOfContents()),
     Component.DesktopOnly(Component.FreeHTML({
       html: 
-      '<div class="table-container"><table><thead><tr><th>PC:s</th><th>Status</th></tr></thead><tbody><tr><td>Aster</td><td>Dead</td></tr><tr><td>Skurim</td><td>Alive</td></tr><tr><td>Gundlar</td><td>In love</td></tr><tr><td>Jamal</td><td>Reborn</td></tr><tr><td>Eviticus</td><td>Stressed</td></tr><tr><td>Archable</td><td>Studying</td></tr><tr><td>Buffert</td><td>Eating wood</td></tr></tbody></table></div>'
+        '<a href="https://www.dndbeyond.com/campaigns/4259461" target="_blank"> <img src="https://dndbeyond-support.wizards.com/hc/theming_assets/01JDAVQD7VQ3KSMGT6RCBM9XRZ" alt="Logo" style="height: 80px;"></a>'
     })),
+    Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
   
