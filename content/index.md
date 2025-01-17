@@ -140,5 +140,10 @@ ___
   </a>
 </h2>
 
+<a href="https://www.dndbeyond.com/campaigns/4259461" target="_blank">
+  <img src="https://dndbeyond-support.wizards.com/hc/theming_assets/01JDAVQD7VQ3KSMGT6RCBM9XRZ" alt="Logo" style="height: 50px;">
+</a>
+
 
 test
+
