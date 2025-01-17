@@ -63,9 +63,9 @@ export const defaultContentPageLayout: PageLayout = {
       html: `
         <iframe 
           src="https://blizzardjr.github.io/ashen-test/" 
-          width="600" 
-          height="400" 
-          frameborder="0" 
+          width="100" 
+          height="200" 
+          frameborder="10" 
           allowfullscreen>
         </iframe>
       `,
@@ -91,9 +91,9 @@ export const defaultListPageLayout: PageLayout = {
       html: `
         <iframe 
           src="https://blizzardjr.github.io/ashen-test/" 
-          width="600" 
-          height="400" 
-          frameborder="0" 
+          width="100" 
+          height="200" 
+          frameborder="10" 
           allowfullscreen>
         </iframe>
       `,
