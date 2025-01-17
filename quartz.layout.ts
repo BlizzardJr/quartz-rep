@@ -59,8 +59,8 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
+    Component.FreeHTML({html: "<h2>Welcome!</h2><p>This is some custom HTML content.</p>"}),
     Component.Backlinks(),
-    Component.Graph(),
   ],
 }
 
@@ -76,8 +76,8 @@ export const defaultListPageLayout: PageLayout = {
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
+    Component.FreeHTML({html: "<h2>Welcome!</h2><p>This is some custom HTML content.</p>"}),
     Component.Backlinks(),
-    Component.Graph(),
   ],
   
 }
