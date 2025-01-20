@@ -7,9 +7,16 @@
     --callout-icon: none;
     border: 1px solid var(--lightgray);
     float: right;
-    width: var(--infobox-width, 300px);
     margin: 0px 0px 10px 10px;
     padding: 5px;
+    /* Default width */
+    width: 300px;
+    clear: both;
+}
+
+/* Custom Width Based on Attribute */
+.callout[data-callout^="infobox|"] {
+    width: attr(data-callout, 300px); /* Default width for invalid input */
   }
 
 /* mobile breakpoint */
