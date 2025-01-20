@@ -28,49 +28,43 @@ PassFrontmatter: true
 >> - [Levil](1.%20Cities/3.%20Levil.md)
 >> - [Al-Mohawia](4.%20The%20Spells.md)
 >
->> [!error| no-i ttl-c]- The Races
+>> [!error| no-i ttl-c]- NPC:s
 >>
 >> - [Overview](The%20Races%20of%20Vilenought.md)
->> - [The Monkhalyr](Ashen-Reference/content/4.%20Empty1/2.%20The%20Monkhalyr/1.%20Lore.md)
->> - [The Markhalyr](Ashen-Reference/content/4.%20Empty1/3.%20The%20Markhalyr/1.%20Lore.md)
->> - [The Venthalyr](Ashen-Reference/content/4.%20Empty1/4.%20The%20Venthalyr/1.%20Lore.md)
->> - [The Anthalyr](Ashen-Reference/content/4.%20Empty1/5.%20The%20Anthalyr/2.%20Mechanics.md)
->> - [The Urashalyr](Ashen-Reference/content/4.%20Empty1/6.%20The%20Urashalyr/1.%20Lore.md)
->> - [The Varashalyr](Ashen-Reference/content/4.%20Empty1/7.%20The%20Varashalyr/2.%20Mechanics.md)
+>> - [Elon Tusk](Ashen-Reference/content/4.%20Empty1/2.%20The%20Monkhalyr/1.%20Lore.md)
+>> - [Bill Bait](Ashen-Reference/content/4.%20Empty1/3.%20The%20Markhalyr/1.%20Lore.md)
+>> - [George Clooney](Ashen-Reference/content/4.%20Empty1/4.%20The%20Venthalyr/1.%20Lore.md)
+>> - [Mark^3:en](Ashen-Reference/content/4.%20Empty1/5.%20The%20Anthalyr/2.%20Mechanics.md)
+>> - [YOU ARE TEARING ME APART, LISA!](Ashen-Reference/content/4.%20Empty1/6.%20The%20Urashalyr/1.%20Lore.md)
+>> - [Perfectly balanced, as all things should be](Ashen-Reference/content/4.%20Empty1/7.%20The%20Varashalyr/2.%20Mechanics.md)
 
 > [!column| no-t no-i]
->> [!bug| no-i ttl-c]- The Gods
->> - [The Gods & Pantheons](The%20Gods%20&%20Pantheons.md)
->> <br>
->> - [The One](1.%20The%20One.md)
->> - [The Trinity](1.%20The%20Trinity.md)
->>   - [The Creator](2.%20The%20Creator.md)
->>   - [The Preserver](3.%20The%20Preserver.md)
->>   - [The Destroyer](4.%20The%20Destroyer.md)
->> - [The Nine](A_The%20Nine.md)
->>   - [She Who Weeps](B_She%20Who%20Weeps.md)
->>   - [The Silent King](C_The%20Silent%20King.md)
->>   - [The Bound One](D_The%20Bound%20One.md)
->>   - [The Shattered Queen](E_The%20Shattered%20Queen.md)
->>   - [The Warden Of Shadows](F_The%20Warden%20Of%20Shadows.md)
->>   - [The Burning Judge](G_The%20Burning%20Judge.md)
->>   - [The Passionate Duett](H_The%20Passionate%20Duett.md)
->>   - [The Gilded Magnate](I_The%20Gilded%20Magnate.md)
->>   - [J_The Herald of Change](J_The%20Herald%20of%20Change.md)
->> - [Minor Gods & Aspects](1.%20Minor%20Gods%20&%20Aspects.md)
->>   - [The Gracious Reflection](2.%20The%20Gracious%20Reflection.md)
->>   - [The Spiteful Shade](3.%20The%20Spiteful%20Shade.md)
->>   - [The Ashen Sage](4.%20The%20Ashen%20Sage.md)
->>   - [The Primal Sovereign](5.%20The%20Primal%20Sovereign.md)
+>> [!bug| no-i ttl-c]- The Lore
+>> - [The Gods](The%20Gods%20&%20Pantheons.md)
+>>   - [Jesus](1.%20The%20One.md)
+>>   - [Sir Gideon Offnir](1.%20The%20Trinity.md)
+>>   - [Capital](2.%20The%20Creator.md)
+>>   - [Tim Apple](3.%20The%20Preserver.md)
+>>   - [Jeff Bezos](4.%20The%20Destroyer.md)
+>> - [History](A_The%20Nine.md)
+>>   - [Era 1](B_She%20Who%20Weeps.md)
+>>   - [Era 2](C_The%20Silent%20King.md)
+>>   - [Era 3](D_The%20Bound%20One.md)
+>>   - [Era 4](E_The%20Shattered%20Queen.md)
+>> - [The World](1.%20Minor%20Gods%20&%20Aspects.md)
+>>   - [Elfs](2.%20The%20Gracious%20Reflection.md)
+>>   - [Political conflicts](3.%20The%20Spiteful%20Shade.md)
+>>   - [Continents](4.%20The%20Ashen%20Sage.md)
+>>   - [Pit Bull](5.%20The%20Primal%20Sovereign.md)
 >
->> [!bug| txt-c ttl-c no-i]- The PC:s
+>> [!bug| txt-c ttl-c no-i]- The Mechanics
 >> - [General Rules & Specifics](9.%20Mechanics/General%20Rules%20&%20Specifics.md)
 >> - [Long-Term Fatigue](9.%20Mechanics/Long-Term%20Fatigue.md)
->> - [Mutations](9.%20Mechanics/Mutations.md)
+>> - [Revivals](9.%20Mechanics/Mutations.md)
 >> - [Skills](9.%20Mechanics/Skills.md)
 >> - [Tables](9.%20Mechanics/Tables.md)
 >> - [Traits](9.%20Mechanics/Traits.md)
->> - [Weaving Traits](9.%20Mechanics/Weaving%20Traits.md)
+>> - [New Proficiencies](9.%20Mechanics/Weaving%20Traits.md)
 
 ![Divider_1.webp](Divider_1.webp)
 
