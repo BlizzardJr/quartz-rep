@@ -12,19 +12,6 @@
   padding: 5px;
 }
 
-/* Match specific widths in the data-callout attribute */
-.callout[data-callout="infobox|400"] {
-  width: 400px;
-}
-
-.callout[data-callout="infobox|500"] {
-  width: 500px;
-}
-
-.callout[data-callout="infobox|600"] {
-  width: 600px;
-}
-
 /* mobile breakpoint */
 @media screen and (max-width: $mobileBreakpoint) {
   .callout[data-callout="infobox"] {
