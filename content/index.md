@@ -85,7 +85,7 @@ ___
 | PC:s     | Status       |
 | -------- | ------------ |
 | Aster    | Dead         |
-| Skurim   | Alive        |
+| Skurim   | On the grind |
 | Gundlar  | In love      |
 | Jamal    | Reborn       |
 | Eviticus | Stressed     |
