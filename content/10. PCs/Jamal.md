@@ -5,7 +5,7 @@ tags:
 publish: true
 PassFrontmatter: true
 ---
+Hello, World!
 
-| ![[jamal_big.PNG]]      | ![[aisha.JPG]]     |
-| ----------------------- | ------------------ |
-| ![[eldrich_blast.JPEG]] | ![[jamal_big.PNG]] |
+![[Ashen-Reference/content/10. PCs/jamal_big.png]]
+![[Ashen-Reference/content/10. PCs/aisha.jpg]]
