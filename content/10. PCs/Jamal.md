@@ -5,7 +5,7 @@ tags:
 publish: true
 PassFrontmatter: true
 ---
-Hello, World!
+Hello, World! No? 
 
-![[Ashen-Reference/content/10. PCs/jamal_big.png]]
-![[Ashen-Reference/content/10. PCs/aisha.jpg]]
+![[jamal_big.png]]
+![[aisha.jpg]]
