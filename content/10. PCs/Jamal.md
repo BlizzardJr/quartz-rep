@@ -7,5 +7,5 @@ PassFrontmatter: true
 ---
 Hello, World! No? 
 
-![[jamal_big.png]]
+
 ![[aisha.jpg]]
