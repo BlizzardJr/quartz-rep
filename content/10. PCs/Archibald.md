@@ -1,11 +1,8 @@
 ---
-title: Jamal
+title: Archibald
 draft: false
 tags: 
 publish: true
 PassFrontmatter: true
 ---
-Hello, World! No? 
-
-![[jamal_big.png]]
-![[aisha.jpg]]
+Hello, World!
