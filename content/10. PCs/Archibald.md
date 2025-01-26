@@ -5,4 +5,4 @@ tags:
 publish: true
 PassFrontmatter: true
 ---
-Hello, World!
+![[ummach.webp]]
