@@ -10,7 +10,7 @@ PassFrontmatter: true
 
 ![Divider_1.webp](Divider_1.webp)
 
-> [!quote] <p><i>After the great clash, few humans remained and even fewer remained with their humanity - unknown elf circa 120</i></p>
+> [!quote] <p><i>"After the great clash, few humans remained and even fewer remained with their humanity"<br>- unknown elf circa 120</i></p>
 > 
 
 <iframe src="https://blizzardjr.github.io/ashen-test/" width="100%" height="800px"></iframe>
